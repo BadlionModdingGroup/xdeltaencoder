@@ -1,3 +1,8 @@
+Badlion Modding fork of funni patch tool
+========================================
+Contains changes needed & used in badlion gradle
+
+
 Introduction
 ============
 XDeltaEncoder is a tool for creating and manipulating binary delta patches. Binary delta is a file representing difference between old and new version of a binary file. With the use of the delta patch, new version of the binary file can be reconstructed (decoded) from the original old binary file.
